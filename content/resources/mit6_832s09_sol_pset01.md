@@ -4,7 +4,12 @@ description: Solutions to a problem set on the definition of underactuated, the 
   pendulum, and optimal control of the double integrator.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-832-underactuated-robotics-spring-2009/85643200c49c68ce52c953b28a29101a_MIT6_832s09_sol_pset01.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Problem Set 1 Solutions
+type: OCWFile
 uid: 85643200-c49c-68ce-52c9-53b28a29101a
 ---

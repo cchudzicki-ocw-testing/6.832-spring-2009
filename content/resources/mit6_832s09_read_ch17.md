@@ -5,7 +5,12 @@ description: Courses notes on stochastic gradient descent algorithms, methods th
   policy for a system without requiring any model of the plant.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-832-underactuated-robotics-spring-2009/918e59f4891fe97708b6aed1e4112a4f_MIT6_832s09_read_ch17.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: Model-free Policy Search
+type: OCWFile
 uid: 918e59f4-891f-e977-08b6-aed1e4112a4f
 ---

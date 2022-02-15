@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Bibliographyf
-type: OCWFile
 uid: 96759558-56dc-cca5-400c-50d2dceb3aa6
 ---

@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Robotics Preliminaries
-type: OCWFile
 uid: cb77224e-9452-d4c1-1592-2e12a2fcb113
 ---

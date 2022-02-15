@@ -10,6 +10,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: Practice Problems
-type: OCWFile
 uid: 3e9732bf-1ee2-73aa-bac1-7e23cdb39690
 ---

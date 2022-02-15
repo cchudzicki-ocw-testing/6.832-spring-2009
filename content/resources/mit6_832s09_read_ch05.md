@@ -11,6 +11,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Walking
-type: OCWFile
 uid: 6e83e589-17c4-03fd-c98d-2d96260661ce
 ---

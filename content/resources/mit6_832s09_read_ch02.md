@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: The Simple Pendulum
-type: OCWFile
 uid: 3cef43ed-c881-9f9f-3df4-dd2d8c18abfa
 ---

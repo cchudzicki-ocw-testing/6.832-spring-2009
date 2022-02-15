@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Dynamic Programming
-type: OCWFile
 uid: c227804e-f2d3-1ebb-60f8-3acacd9b9ff5
 ---

@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Trajectory Optimization
-type: OCWFile
 uid: 2edea610-1a80-fc20-2f5e-f7472956b580
 ---

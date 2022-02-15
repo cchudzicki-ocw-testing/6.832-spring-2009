@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Analytical Optimal Control with the Hamilton-Jacobi-Bellman Sufficiency Theorem
-type: OCWFile
 uid: 3c209912-afeb-0131-2a67-81c3f1b5e5c3
 ---

@@ -11,6 +11,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Model-free Policy Search
-type: OCWFile
 uid: 918e59f4-891f-e977-08b6-aed1e4112a4f
 ---

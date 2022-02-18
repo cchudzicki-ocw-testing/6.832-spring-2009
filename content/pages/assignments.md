@@ -46,7 +46,7 @@ Optimal control of the double integrator
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit6_832s09_pset01))
+({{< resource_link b112f4ff-b3f2-f27d-4754-cb47e3b586c0 "PDF" >}})
 
 calc\_basin.m ([M](/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/assignments/calc_basin.m))
 
@@ -55,7 +55,7 @@ brick\_control.m ([M](/courses/electrical-engineering-and-computer-science/6-832
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_832s09_sol_pset01))
+({{< resource_link 85643200-c49c-68ce-52c9-53b28a29101a "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,7 +77,7 @@ Swing-up and balance for the cart-pole system
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit6_832s09_pset02))
+({{< resource_link fe71d16e-51cc-eb1e-62f1-7f97493adb89 "PDF" >}})
 
 brick\_vi.m ([M](/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/assignments/brick_vi.m))
 
@@ -90,7 +90,7 @@ cartpole.m ([M](/courses/electrical-engineering-and-computer-science/6-832-under
 
 Problem 1: brick\_vi\_sol.m ([M](/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/assignments/brick_vi_sol.m))
 
-Problem 2 ([PDF]({{< baseurl >}}/resources/mit6_832s09_sol_pset02))
+Problem 2 ({{< resource_link 77f2db89-3aa8-b2c9-cd04-e3ec9a3c6769 "PDF" >}})
 
 The solution to Problem 3 is unavailable.
 
@@ -116,7 +116,7 @@ The rimless wheel
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit6_832s09_pset03))
+({{< resource_link 5fabf636-4e21-21aa-da57-60e00ed117b4 "PDF" >}})
 
 pend\_snopt.m ([M](/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/assignments/pend_snopt.m))
 
@@ -151,7 +151,7 @@ Motion planning with rapidly-exploring random trees
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit6_832s09_pset04))
+({{< resource_link 73e3b526-0a21-10ac-3707-2b1acf5d5862 "PDF" >}})
 
 slip.m ([M](/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/assignments/slip.m))
 
@@ -178,7 +178,7 @@ Temporal difference learning
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit6_832s09_pset05))
+({{< resource_link 706c53d9-df0c-f2de-08ac-3a3a0149f8ec "PDF" >}})
 
 cartpole\_wp.m ([M](/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/assignments/cartpole_wp.m))
 

@@ -403,7 +403,7 @@ TOPICS
 Front
 {{< tdclose >}}
 {{< tdopen >}}
-Title page, table of contents, and preface ({{< resource_link 0b4b18db-9bed-2aa7-1c38-259d7502ca64 "PDF" >}})
+Title page, table of contents, and preface ({{% resource_link 0b4b18db-9bed-2aa7-1c38-259d7502ca64 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -412,7 +412,7 @@ Title page, table of contents, and preface ({{< resource_link 0b4b18db-9bed-2aa7
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Fully actuated vs. underactuated systems ({{< resource_link e338b121-e92a-a7ae-9593-2d0a1d8a80b2 "PDF" >}})
+Fully actuated vs. underactuated systems ({{% resource_link e338b121-e92a-a7ae-9593-2d0a1d8a80b2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -427,7 +427,7 @@ Fully actuated vs. underactuated systems ({{< resource_link e338b121-e92a-a7ae-9
 2
 {{< tdclose >}}
 {{< tdopen >}}
-The simple pendulum ({{< resource_link 3cef43ed-c881-9f9f-3df4-dd2d8c18abfa "PDF" >}})
+The simple pendulum ({{% resource_link 3cef43ed-c881-9f9f-3df4-dd2d8c18abfa "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -436,7 +436,7 @@ The simple pendulum ({{< resource_link 3cef43ed-c881-9f9f-3df4-dd2d8c18abfa "PDF
 3
 {{< tdclose >}}
 {{< tdopen >}}
-The acrobot and cart-pole ({{< resource_link 72bc06c4-dc73-315b-f49c-28a81dc2b996 "PDF" >}})
+The acrobot and cart-pole ({{% resource_link 72bc06c4-dc73-315b-f49c-28a81dc2b996 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -454,7 +454,7 @@ Manipulation
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Walking ({{< resource_link 6e83e589-17c4-03fd-c98d-2d96260661ce "PDF" >}})
+Walking ({{% resource_link 6e83e589-17c4-03fd-c98d-2d96260661ce "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -496,7 +496,7 @@ Model systems with stochasticity
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Dynamic programming ({{< resource_link c227804e-f2d3-1ebb-60f8-3acacd9b9ff5 "PDF" >}})
+Dynamic programming ({{% resource_link c227804e-f2d3-1ebb-60f8-3acacd9b9ff5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -505,7 +505,7 @@ Dynamic programming ({{< resource_link c227804e-f2d3-1ebb-60f8-3acacd9b9ff5 "PDF
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Analytical optimal control with the Hamilton-Jacobi-Bellman sufficiency theorem ({{< resource_link 3c209912-afeb-0131-2a67-81c3f1b5e5c3 "PDF" >}})
+Analytical optimal control with the Hamilton-Jacobi-Bellman sufficiency theorem ({{% resource_link 3c209912-afeb-0131-2a67-81c3f1b5e5c3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -523,7 +523,7 @@ Analytical optimal control with Pontryagin's minimum principle
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Trajectory optimization ({{< resource_link 2edea610-1a80-fc20-2f5e-f7472956b580 "PDF" >}})
+Trajectory optimization ({{% resource_link 2edea610-1a80-fc20-2f5e-f7472956b580 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -568,7 +568,7 @@ Model-free value methods
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Model-free policy search ({{< resource_link 918e59f4-891f-e977-08b6-aed1e4112a4f "PDF" >}})
+Model-free policy search ({{% resource_link 918e59f4-891f-e977-08b6-aed1e4112a4f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -603,7 +603,7 @@ Appendix
 {{< tdopen >}}
 
 
-A. Robotics preliminaries ({{< resource_link cb77224e-9452-d4c1-1592-2e12a2fcb113 "PDF" >}})
+A. Robotics preliminaries ({{% resource_link cb77224e-9452-d4c1-1592-2e12a2fcb113 "PDF" %}})
 
 B. Machine learning preliminaries
 
@@ -616,7 +616,7 @@ B. Machine learning preliminaries
 Back
 {{< tdclose >}}
 {{< tdopen >}}
-References ({{< resource_link 96759558-56dc-cca5-400c-50d2dceb3aa6 "PDF" >}})
+References ({{% resource_link 96759558-56dc-cca5-400c-50d2dceb3aa6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

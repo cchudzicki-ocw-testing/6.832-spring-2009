@@ -32,7 +32,7 @@ Students actively engaged in robotics or related research should have all of the
 Textbooks
 ---------
 
-There are no required textbooks for this course. Readings will come from the course notes "Underactuated Robotics: Learning, Planning, and Control for Efficient and Agile Machines." A list of relevant textbooks is given in the {{< resource_link d49b78fe-f56d-f97f-9681-953c45ae4447 "Readings" >}} section.
+There are no required textbooks for this course. Readings will come from the course notes "Underactuated Robotics: Learning, Planning, and Control for Efficient and Agile Machines." A list of relevant textbooks is given in the {{% resource_link d49b78fe-f56d-f97f-9681-953c45ae4447 "Readings" %}} section.
 
 Course Goals
 ------------

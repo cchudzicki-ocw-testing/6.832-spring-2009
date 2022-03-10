@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Fully Actuated vs. Underactuated Systems
 uid: e338b121-e92a-a7ae-9593-2d0a1d8a80b2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

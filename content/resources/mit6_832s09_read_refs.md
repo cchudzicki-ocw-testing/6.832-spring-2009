@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Bibliographyf
 uid: 96759558-56dc-cca5-400c-50d2dceb3aa6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

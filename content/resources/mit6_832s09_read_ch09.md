@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Dynamic Programming
 uid: c227804e-f2d3-1ebb-60f8-3acacd9b9ff5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

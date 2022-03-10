@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: The Acrobot and Cart-Pole
 uid: 72bc06c4-dc73-315b-f49c-28a81dc2b996
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

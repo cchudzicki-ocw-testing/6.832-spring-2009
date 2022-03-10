@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Solution to Problem 2
 uid: 77f2db89-3aa8-b2c9-cd04-e3ec9a3c6769
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

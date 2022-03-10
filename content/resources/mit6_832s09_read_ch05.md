@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Walking
 uid: 6e83e589-17c4-03fd-c98d-2d96260661ce
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

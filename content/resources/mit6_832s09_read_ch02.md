@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: The Simple Pendulum
 uid: 3cef43ed-c881-9f9f-3df4-dd2d8c18abfa
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

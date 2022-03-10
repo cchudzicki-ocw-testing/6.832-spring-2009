@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: 04c58ca0-0560-b9d1-6ca6-2691ea66babf
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Solutions are available for selected problems below. The solutions and selected MATLAB® files are courtesy of Rick E. Cory and John W. Roberts, and are used with permission.

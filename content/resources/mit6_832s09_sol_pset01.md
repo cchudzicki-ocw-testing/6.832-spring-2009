@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Problem Set 1 Solutions
 uid: 85643200-c49c-68ce-52c9-53b28a29101a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

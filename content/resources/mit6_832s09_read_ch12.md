@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Trajectory Optimization
 uid: 2edea610-1a80-fc20-2f5e-f7472956b580
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

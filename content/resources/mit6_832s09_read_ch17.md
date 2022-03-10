@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Model-free Policy Search
 uid: 918e59f4-891f-e977-08b6-aed1e4112a4f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

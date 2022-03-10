@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Practice Problems
 uid: 3e9732bf-1ee2-73aa-bac1-7e23cdb39690
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

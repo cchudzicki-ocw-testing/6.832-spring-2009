@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Readings
 uid: d49b78fe-f56d-f97f-9681-953c45ae4447
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This section is divided into [recommended textbooks](#Recommended_Textbooks), [readings by session](#Readings_by_Session), and [course notes](#Course_Notes). There are no required textbooks for this course.

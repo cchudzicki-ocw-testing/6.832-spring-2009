@@ -13,4 +13,8 @@ resourcetype: Document
 title: 'Underactuated Robotics: Learning, Planning, and Control for Efficient and
   Agile Machines'
 uid: 0b4b18db-9bed-2aa7-1c38-259d7502ca64
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

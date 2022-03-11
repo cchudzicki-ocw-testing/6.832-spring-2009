@@ -52,9 +52,9 @@ Optimal control of the double integrator
 
 ({{% resource_link b112f4ff-b3f2-f27d-4754-cb47e3b586c0 "PDF" %}})
 
-calc\_basin.m ([M](/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/assignments/calc_basin.m))
+calc\_basin.m ({{% resource_link d5a4582c-4cf8-1ca7-a5a1-c27b6385930f "M" %}})
 
-brick\_control.m ([M](/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/assignments/brick_control.m))
+brick\_control.m ({{% resource_link 6cd8dc7b-df62-82e6-5e54-8d792120d8f0 "M" %}})
 
 
 {{< tdclose >}}
@@ -83,16 +83,16 @@ Swing-up and balance for the cart-pole system
 
 ({{% resource_link fe71d16e-51cc-eb1e-62f1-7f97493adb89 "PDF" %}})
 
-brick\_vi.m ([M](/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/assignments/brick_vi.m))
+brick\_vi.m ({{% resource_link 5ca16586-431e-7bd8-7736-a4a77d0eb49d "M" %}})
 
-cartpole.m ([M](/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/assignments/cartpole.m))
+cartpole.m ({{% resource_link 9ee4a5d5-c72e-c6e2-9b43-ef52ec28c97a "M" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Problem 1: brick\_vi\_sol.m ([M](/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/assignments/brick_vi_sol.m))
+Problem 1: brick\_vi\_sol.m ({{% resource_link 54207017-c3d4-9280-07f3-96a4333c847f "M" %}})
 
 Problem 2 ({{% resource_link 77f2db89-3aa8-b2c9-cd04-e3ec9a3c6769 "PDF" %}})
 
@@ -122,9 +122,9 @@ The rimless wheel
 
 ({{% resource_link 5fabf636-4e21-21aa-da57-60e00ed117b4 "PDF" %}})
 
-pend\_snopt.m ([M](/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/assignments/pend_snopt.m))
+pend\_snopt.m ({{% resource_link bfd3a681-f47d-de1c-e78f-e98fcdf5c9ec "M" %}})
 
-pendfun.m ([M](/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/assignments/pendfun.m))
+pendfun.m ({{% resource_link 37026169-1f72-eba0-9180-62ee9b693428 "M" %}})
 
 
 {{< tdclose >}}
@@ -133,7 +133,7 @@ pendfun.m ([M](/courses/electrical-engineering-and-computer-science/6-832-undera
 
 The solutions to Problems 1 and 2 are unavailable.
 
-Problem 3: rimlessWheel.m ([M](/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/assignments/rimlessWheel.m))
+Problem 3: rimlessWheel.m ({{% resource_link 536b9ea3-3e7a-6efb-d8fb-f221ba519998 "M" %}})
 
 
 {{< tdclose >}}
@@ -157,7 +157,7 @@ Motion planning with rapidly-exploring random trees
 
 ({{% resource_link 73e3b526-0a21-10ac-3707-2b1acf5d5862 "PDF" %}})
 
-slip.m ([M](/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/assignments/slip.m))
+slip.m ({{% resource_link 7efa7996-90f6-1208-d379-676d01da7e76 "M" %}})
 
 
 {{< tdclose >}}
@@ -184,9 +184,9 @@ Temporal difference learning
 
 ({{% resource_link 706c53d9-df0c-f2de-08ac-3a3a0149f8ec "PDF" %}})
 
-cartpole\_wp.m ([M](/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/assignments/cartpole_wp.m))
+cartpole\_wp.m ({{% resource_link 0fd15e22-4121-32ef-a4ba-98c7f1a7e7f5 "M" %}})
 
-markov\_td.m ([M](/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/assignments/markov_td.m))
+markov\_td.m ({{% resource_link 05ec2eaa-3ae2-ca53-483f-56a37484787d "M" %}})
 
 
 {{< tdclose >}}

@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Swing-up control of acrobot and cart-pole systems
 
 **Instructors:** Russell Tedrake
+

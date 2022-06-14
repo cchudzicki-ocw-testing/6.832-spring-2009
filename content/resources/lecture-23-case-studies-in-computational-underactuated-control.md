@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Case studies in computational underactuated control
 
 **Instructors:** Russell Tedrake
+

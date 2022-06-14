@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Introduction
 
 **Instructors:** Russell Tedrake
+

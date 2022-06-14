@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Temporal difference learning with function approximation
 
 **Instructors:** Russell Tedrake
+

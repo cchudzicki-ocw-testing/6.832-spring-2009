@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Running
 
 **Instructors:** Russell Tedrake
+

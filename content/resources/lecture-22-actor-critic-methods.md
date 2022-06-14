@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Actor-critic methods
 
 **Instructors:** Russell Tedrake
+

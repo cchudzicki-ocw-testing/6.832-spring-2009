@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Introducing stochastic optimal control
 
 **Instructors:** Russell Tedrake
+

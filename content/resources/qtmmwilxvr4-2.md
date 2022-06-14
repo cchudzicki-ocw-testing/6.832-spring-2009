@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-832-underactuated-robotics-spring-2009/127e2ce38ef85b7da347c2d9a873a8ba_qtmmwILxVR4.vtt
+file: /courses/6-832-underactuated-robotics-spring-2009/127e2ce38ef85b7da347c2d9a873a8ba_qtmmwILxVR4.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

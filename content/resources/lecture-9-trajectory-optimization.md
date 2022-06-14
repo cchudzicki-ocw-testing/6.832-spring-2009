@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Trajectory optimization
 
 **Instructors:** Russell Tedrake
+

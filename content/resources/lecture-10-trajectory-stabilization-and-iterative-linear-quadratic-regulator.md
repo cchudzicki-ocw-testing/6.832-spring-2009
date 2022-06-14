@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Trajectory stabilization and iterative linear quadratic regulator (iLQR)
 
 **Instructors:** Russell Tedrake
+

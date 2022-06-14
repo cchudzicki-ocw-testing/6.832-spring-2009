@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Policy improvement
 
 **Instructors:** Russell Tedrake
+

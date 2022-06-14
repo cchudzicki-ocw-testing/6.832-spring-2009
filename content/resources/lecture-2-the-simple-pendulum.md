@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** The simple pendulum
 
 **Instructors:** Russell Tedrake
+

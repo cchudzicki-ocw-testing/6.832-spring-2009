@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Walking (continued)
 
 **Instructors:** Russell Tedrake
+

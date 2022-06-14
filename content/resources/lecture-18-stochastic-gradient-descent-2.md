@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Stochastic gradient descent 2
 
 **Instructors:** John W. Roberts
+

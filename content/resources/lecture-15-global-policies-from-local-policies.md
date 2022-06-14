@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Global policies from local policies
 
 **Instructors:** Russell Tedrake
+

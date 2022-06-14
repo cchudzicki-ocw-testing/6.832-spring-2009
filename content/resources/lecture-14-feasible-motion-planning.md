@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Feasible motion planning
 
 **Instructors:** Russell Tedrake
+

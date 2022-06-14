@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Optimal control of the double integrator
 
 **Instructors:** Russell Tedrake
+

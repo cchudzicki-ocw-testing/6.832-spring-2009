@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Dynamic programming (DP) and policy search
 
 **Instructors:** Russell Tedrake
+

@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Acrobot and cart-pole
 
 **Instructors:** Russell Tedrake
+

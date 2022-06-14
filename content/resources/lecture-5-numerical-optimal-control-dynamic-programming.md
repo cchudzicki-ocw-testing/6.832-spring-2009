@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Numerical optimal control (dynamic programming)
 
 **Instructors:** Russell Tedrake
+

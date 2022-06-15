@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of recommended textbooks, the schedule of
+  readings by session, and selected chapters from the course notes.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

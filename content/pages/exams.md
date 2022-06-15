@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the midterm exam for the course along with practice
+  problems.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

@@ -6,6 +6,7 @@ file: /courses/6-832-underactuated-robotics-spring-2009/9ee4a5d5c72ec6e29b43ef52
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
